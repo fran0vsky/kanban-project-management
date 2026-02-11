@@ -13,4 +13,4 @@
 
 **Roadmap:** 1) Setup (Nx, Supabase) → 2) Auth → 3) Projects & Tasks CRUD → 4) Kanban UI → 5) Comments & Activity → 6) E2E + CI + deploy.
 
-Reference full spec: `PROJECT_SPEC.md`.
+Reference full spec: `spec-project.md`.
