@@ -18,6 +18,8 @@ See `docs/spec-project.md` for the full spec and roadmap.
 npm install
 ```
 
+Copy `.env.example` to `.env` and fill in your Supabase and API values (see Phase 1 docs if needed).
+
 **Run locally**
 
 - Frontend: `npm run start:web` or `nx serve web`
