@@ -172,3 +172,5 @@ flowchart TD
 | Web         | `app.config.ts`, `app.ts`, `app.html`, `styles.css`, `app.routes.ts`, new `layout/` |
 | Data-access | `libs/data-access/src/lib/` (API service)                                           |
 | Auth        | `libs/auth/src/lib/` (guard, interceptor stubs)                                     |
+
+c
